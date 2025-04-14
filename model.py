@@ -10,7 +10,7 @@ model.train(
   patience=5,
   imgsz=256,
   pretrained=False,
-  project="/mnt/d/BRACU_Projects/KIBO_6th/rpc6YoloV8n/runs",
+  project="F:/KIBO_Competition/Yolo8n/runs",
   overlap_mask=False,
   batch=32,
   mosaic=0.0,
