@@ -1,2 +1,9 @@
 runs/
 datasets/
+best_saved_model/
+
+*.pt
+*.tflite
+*.onnx
+.python-version
+*.npy
