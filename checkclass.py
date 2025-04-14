@@ -1,6 +1,6 @@
 import os
 
-label_dir = 'datasets/custom_dataset/labels/train'
+label_dir = 'datasets/yolo_data/labels/train'
 class_counts = {}
 
 for label_file in os.listdir(label_dir):

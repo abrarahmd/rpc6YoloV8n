@@ -1,4 +1,4 @@
-path: yolo_data
+path: /mnt/d/BRACU_Projects/KIBO_6th/rpc6YoloV8n/datasets/yolo_data
 
 train: images/train
 val: images/val
